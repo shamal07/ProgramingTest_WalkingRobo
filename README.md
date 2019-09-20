@@ -28,4 +28,5 @@ Your script must take these inputs from command line.
 Example
 
 $ php diggyWalkingRobot.php 5 2 SOUTH RW2LW4R
+
 $ 3 -2 East
